@@ -99,8 +99,7 @@ Not just a dashboard — a strategic intelligence tool for election data analyti
 
 ## 👤 Author
 
-**Janhavi Patil**
-
+Janhavi Patil
 Data Analytics | Power BI | Business Intelligence
 ---
 
