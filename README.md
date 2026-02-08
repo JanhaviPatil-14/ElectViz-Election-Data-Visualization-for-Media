@@ -1,7 +1,3 @@
-Here is **ElectViz** written in the **exact same format and style** as your Disney+ Hotstar project 👇
-
----
-
 # 🗳️ ElectViz Dashboard — Power BI
 
 ### Turning Election Data into Strategic Media Intelligence
